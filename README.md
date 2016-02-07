@@ -31,8 +31,8 @@ Build of myfile.c with -Wall:
 
 $ gcc -Wall myfile.c -o myfile
 
-  myfile.c In function 'main':
+> myfile.c In function 'main':
 
-  myfile.c:6:6: warning: unused variable 'i'
+> myfile.c:6:6: warning: unused variable 'i'
 
-  myfile.c:7:1: warning: control reaches end of non-void function
+> myfile.c:7:1: warning: control reaches end of non-void function
